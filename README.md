@@ -28,9 +28,3 @@ npx expo start
 ```
 
 3. Open it in Expo Go, the iOS simulator, Android emulator, or the web preview.
-
-## Notes
-
-- The HTML files remain in place as the design reference source.
-- The app uses a manual light/dark toggle on every recreated screen so the dark mode work is easy to inspect.
-- Navigation is intentionally lightweight and state-based so the dark mode implementation stays easy to iterate on without extra routing setup.
